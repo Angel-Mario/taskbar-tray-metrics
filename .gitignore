@@ -1,0 +1,7 @@
+refs/
+local_build/
+firts_working/
+*.log
+*.dll
+*.obj
+*.pdb
